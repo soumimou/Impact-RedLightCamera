@@ -31,4 +31,4 @@ The analysis uses multiple datasets from the **City of Toronto Open Data Portal*
 Python, pandas, NumPy, matplotlib, seaborn, Jupyter Notebook
 
 ## Notes
-This project was completed as part of the **University of Waterloo – Data Science Foundations** course and serves as an applied data analysis case study based on real-world public data. :contentReference[oaicite:0]{index=0}
+This project was completed as part of the **University of Waterloo – Data Science Foundations** course and serves as an applied data analysis case study based on real-world public data. 
